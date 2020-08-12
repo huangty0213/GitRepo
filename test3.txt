@@ -1,2 +1,2 @@
-hello today
+hello
 good morning.
