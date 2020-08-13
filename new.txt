@@ -1,0 +1,6 @@
+new
+file
+file2
+file4
+hello hello
+test again
