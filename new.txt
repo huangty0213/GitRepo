@@ -2,3 +2,4 @@ new
 file
 file2
 file4
+end
