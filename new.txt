@@ -4,3 +4,4 @@ file2
 file4
 hello hello
 test again
+add 1 line
